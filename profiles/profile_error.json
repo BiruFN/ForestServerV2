@@ -1,0 +1,8 @@
+{
+    "errorCode": "errors.com.epicgames.common.not_found",
+    "errorMessage": "Sorry the resource you were trying to find could not be found",
+    "messageVars": [],
+    "numericErrorCode": 1004,
+    "originatingService": "fortnite",
+    "intent": "prod-live"
+}

@@ -1,0 +1,25 @@
+{
+    "profileRevision": 1,
+    "profileId": "collections",
+    "profileChangesBaseRevision": 1,
+    "profileChanges": [{
+        "changeType": "fullProfileUpdate",
+        "profile": {
+            "created": "2021-03-20T18:21:45.849Z",
+            "updated": "2021-03-20T18:21:45.849Z",
+            "rvn": 1,
+            "wipeNumber": 1,
+            "accountId": "forestid",
+            "profileId": "collections",
+            "version": "forest_collections",
+            "items": {},
+            "stats": {
+                "attributes": {}
+            },
+            "_id": "forestid"
+        }
+    }],
+    "serverTime": "2021-03-20T18:21:45.849Z",
+    "profileCommandRevision": 1,
+    "responseVersion": 1
+}

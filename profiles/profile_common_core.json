@@ -1,0 +1,51 @@
+{
+    "profileRevision": 1,
+    "profileId": "common_core",
+    "profileChangesBaseRevision": 1,
+    "profileChanges": [{
+        "changeType": "fullProfileUpdate",
+        "profile": {
+            "_id": "forestid",
+            "created": "2021-03-20T18:21:02.209Z",
+            "updated": "2021-03-20T18:21:02.209Z",
+            "rvn": 1,
+            "wipeNumber": 1,
+            "accountId": "forestid",
+            "profileId": "common_core",
+            "version": "forest_common_core",
+            "items": {
+                "Currency:MtxPurchased": {
+                    "attributes": {
+                        "platform": "EpicPC"
+                    },
+                    "quantity": 16500,
+                    "templateId": "Currency:MtxPurchased"
+                },
+                "HomebaseBannerColor:DefaultColor1": {
+                    "templateId": "HomebaseBannerColor:DefaultColor1",
+                    "attributes": {
+                        "item_seen": true
+                    },
+                    "quantity": 1
+                },
+                "HomebaseBannerIcon:StandardBanner1": {
+                    "templateId": "HomebaseBannerIcon:StandardBanner1",
+                    "attributes": {
+                        "item_seen": true
+                    },
+                    "quantity": 1
+                }
+            },
+            "stats": {
+                "attributes": {
+                    "mtx_affiliate": "FORTNITE.DEV",
+                    "current_mtx_platform": "EpicPC",
+                    "mtx_purchase_history": {}
+                }
+            }
+        }
+    }],
+    "serverTime": "2021-03-20T18:21:02.210Z",
+    "profileCommandRevision": 1,
+    "responseVersion": 1
+}

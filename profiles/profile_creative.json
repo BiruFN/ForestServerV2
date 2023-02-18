@@ -1,0 +1,35 @@
+{
+    "profileRevision": 1,
+    "profileId": "creative",
+    "profileChangesBaseRevision": 1,
+    "profileChanges": [{
+        "changeType": "fullProfileUpdate",
+        "profile": {
+            "created": "2021-03-20T18:23:21.333Z",
+            "updated": "2021-03-20T18:23:21.333Z",
+            "rvn": 1,
+            "wipeNumber": 1,
+            "accountId": "forestid",
+            "profileId": "creative",
+            "version": "forest_creative",
+            "items": {},
+            "stats": {
+                "attributes": {
+                    "last_used_battlelab_file": "",
+                    "max_island_plots": 50,
+                    "publish_allowed": true,
+                    "support_code": "forest",
+                    "last_used_plot": "",
+                    "permissions": [],
+                    "creator_name": "forest",
+                    "publish_banned": false,
+                    "inventory_limit_bonus": 0
+                }
+            },
+            "_id": "forestid"
+        }
+    }],
+    "serverTime": "2021-03-20T18:23:21.334Z",
+    "profileCommandRevision": 1,
+    "responseVersion": 1
+}

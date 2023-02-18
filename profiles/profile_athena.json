@@ -1,0 +1,193 @@
+{
+    "profileRevision": 1,
+    "profileId": "athena",
+    "profileChangesBaseRevision": 1,
+    "profileChanges": [{
+        "changeType": "fullProfileUpdate",
+        "profile": {
+            "_id": "forestid",
+            "Update": "forest",
+            "created": "2021-03-20T18:15:37.485Z",
+            "updated": "2021-03-20T18:15:37.485Z",
+            "rvn": 1,
+            "wipeNumber": 1,
+            "accountId": "forestid",
+            "profileId": "athena",
+            "version": "forest_athena",
+            "items": {
+                "sandbox_loadout": {
+                    "templateId": "CosmeticLocker:cosmeticlocker_athena",
+                    "attributes": {
+                        "locker_slots_data": {
+                            "slots": {
+                                "Pickaxe": {
+                                    "items": ["AthenaPickaxe:DefaultPickaxe"],
+                                    "activeVariants": [null]
+                                },
+                                "Dance": {
+                                    "items": ["AthenaDance:EID_DanceMoves", "", "", "", "", ""],
+                                    "activeVariants": [null, null, null, null, null, null]
+                                },
+                                "Glider": {
+                                    "items": ["AthenaGlider:DefaultGlider"],
+                                    "activeVariants": [null]
+                                },
+                                "Character": {
+                                    "items": [""],
+                                    "activeVariants": [null]
+                                },
+                                "Backpack": {
+                                    "items": [""],
+                                    "activeVariants": [null]
+                                },
+                                "ItemWrap": {
+                                    "items": ["", "", "", "", "", "", ""],
+                                    "activeVariants": [null, null, null, null, null, null, null]
+                                },
+                                "LoadingScreen": {
+                                    "items": [""],
+                                    "activeVariants": [null]
+                                },
+                                "MusicPack": {
+                                    "items": ["AthenaMusicPack:MusicPack_162_S23Default"],
+                                    "activeVariants": [null]
+                                },
+                                "SkyDiveContrail": {
+                                    "items": [""],
+                                    "activeVariants": [null]
+                                }
+                            }
+                        },
+                        "use_count": 0,
+                        "banner_icon_template": "StandardBanner1",
+                        "banner_color_template": "DefaultColor1",
+                        "locker_name": "forest",
+                        "item_seen": false,
+                        "favorite": false
+                    },
+                    "quantity": 1
+                },
+                "AthenaPickaxe:DefaultPickaxe": {
+                    "templateId": "AthenaPickaxe:DefaultPickaxe",
+                    "attributes": {
+                        "max_level_bonus": 0,
+                        "level": 1,
+                        "item_seen": true,
+                        "xp": 0,
+                        "variants": [],
+                        "favorite": false
+                    },
+                    "quantity": 1
+                },
+                "AthenaDance:EID_DanceMoves": {
+                    "templateId": "AthenaDance:EID_DanceMoves",
+                    "attributes": {
+                        "max_level_bonus": 0,
+                        "level": 1,
+                        "item_seen": true,
+                        "xp": 0,
+                        "variants": [],
+                        "favorite": false
+                    },
+                    "quantity": 1
+                },
+                "AthenaGlider:DefaultGlider": {
+                    "templateId": "AthenaGlider:DefaultGlider",
+                    "attributes": {
+                        "max_level_bonus": 0,
+                        "level": 1,
+                        "item_seen": true,
+                        "xp": 0,
+                        "variants": [],
+                        "favorite": false
+                    },
+                    "quantity": 1
+                },
+                "AthenaMusicPack:MusicPack_162_S23Default": {
+                    "templateId": "AthenaMusicPack:MusicPack_162_S23Default",
+                    "attributes": {
+                      "max_level_bonus": 0,
+                      "level": 1,
+                      "item_seen": true,
+                      "xp": 0,
+                      "variants": [],
+                      "favorite": false
+                    },
+                    "quantity": 1
+                }
+            },
+            "stats": {
+                "attributes": {
+                    "past_seasons": [],
+                    "season_match_boost": 0,
+                    "loadouts": [
+                      "sandbox_loadout"
+                    ],
+                    "favorite_victorypose": "",
+                    "mfa_reward_claimed": true,
+                    "quest_manager": {
+                      "dailyLoginInterval": "2023-02-14T03:38:20.099Z",
+                      "dailyQuestRerolls": 1
+                    },
+                    "book_level": 1,
+                    "season_num": 23,
+                    "favorite_consumableemote": "",
+                    "banner_color": "DefaultColor1",
+                    "favorite_callingcard": "",
+                    "favorite_character": "",
+                    "favorite_spray": [],
+                    "book_xp": 0,
+                    "battlestars": 0,
+                    "battlestars_season_total": 0,
+                    "style_points": 0,
+                    "alien_style_points": 0,
+                    "party_assist_quest": "",
+                    "pinned_quest": "",
+                    "purchased_bp_offers": [],
+                    "favorite_loadingscreen": "",
+                    "book_purchased": false,
+                    "lifetime_wins": 0,
+                    "favorite_hat": "",
+                    "level": 1,
+                    "favorite_battlebus": "",
+                    "favorite_mapmarker": "",
+                    "favorite_vehicledeco": "",
+                    "accountLevel": 1,
+                    "favorite_backpack": "",
+                    "favorite_dance": [
+                        "AthenaDance:EID_DanceMoves",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "inventory_limit_bonus": 0,
+                    "last_applied_loadout": "sandbox_loadout",
+                    "favorite_skydivecontrail": "",
+                    "favorite_pickaxe": "AthenaPickaxe:DefaultPickaxe",
+                    "favorite_glider": "AthenaGlider:DefaultGlider",
+                    "daily_rewards": {},
+                    "xp": 0,
+                    "season_friend_match_boost": 0,
+                    "active_loadout_index": 0,
+                    "favorite_musicpack": "AthenaMusicPack:MusicPack_162_S23Default",
+                    "banner_icon": "StandardBanner1",
+                    "favorite_itemwraps": [
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            },
+            "commandRevision": 0
+        }
+    }],
+    "serverTime": "2021-03-20T18:17:07.308Z",
+    "profileCommandRevision": 1,
+    "responseVersion": 1
+}

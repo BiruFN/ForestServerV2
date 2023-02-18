@@ -1,0 +1,29 @@
+{
+    "profileRevision": 1,
+    "profileId": "common_public",
+    "profileChangesBaseRevision": 1,
+    "profileChanges": [{
+        "changeType": "fullProfileUpdate",
+        "profile": {
+            "created": "2021-03-20T18:22:38.147Z",
+            "updated": "2021-03-20T18:22:38.147Z",
+            "rvn": 1,
+            "wipeNumber": 1,
+            "accountId": "forestid",
+            "profileId": "common_public",
+            "version": "forest_common_public",
+            "items": {},
+            "stats": {
+                "attributes": {
+                    "banner_color": "DefaultColor1",
+                    "homebase_name": "forest",
+                    "banner_icon": "StandardBanner1"
+                }
+            },
+            "_id": "forestid"
+        }
+    }],
+    "serverTime": "2021-03-20T18:22:38.148Z",
+    "profileCommandRevision": 1,
+    "responseVersion": 1
+}
