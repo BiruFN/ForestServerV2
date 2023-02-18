@@ -1,2 +1,4 @@
 # ForestServerV2
-Fortnite Private Server with v23.40
++ Fortnite private server with v23.40 support
+- backend by BiruFN
+- shtrfnapi(api.shifts.tk) by _Shifttrr
