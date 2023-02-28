@@ -167,7 +167,7 @@ app.get("/account/api/public/account/*/externalAuths", async (req, res) => {
 
 //[GET 200] https://api.epicgames.dev/sdk/v1/*
 app.get(["/sdk/v1/default","/sdk/v1/product/prod-fn"], async (req, res) => {
-	const response = await axios.get("https://api.shifts.tk/v1/fortnite/epic/default");
+    const response = await axios.get("https://api.shifts.tk/v1/fortnite/epic/sdk");
     res.json(response.data);
     res.status(200);
 })
