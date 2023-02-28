@@ -10,7 +10,7 @@ const displayName = "ForestServer";
 
 app.listen(port, () => {
     console.log("ForestServerV2 listen port", port);
-});
+})
 
 app.all("/", async (req, res) => {
     res.status(200);
